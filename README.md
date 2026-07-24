@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0485-max-consecutive-ones) |
@@ -30,5 +31,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
