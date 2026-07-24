@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
