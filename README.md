@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0485-max-consecutive-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -77,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
