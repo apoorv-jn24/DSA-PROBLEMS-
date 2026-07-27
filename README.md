@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0485-max-consecutive-ones) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
