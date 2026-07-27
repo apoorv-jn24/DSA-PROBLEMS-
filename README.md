@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0485-max-consecutive-ones) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
