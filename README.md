@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3875-construct-uniform-parity-array-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0053-maximum-subarray) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Simulation
 |  |
 | ------- |
@@ -109,4 +111,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4010-maximize-pair-strength-using-gcd) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Merge Sort
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->
