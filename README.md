@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1572-matrix-diagonal-sum](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3875-construct-uniform-parity-array-i) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0509-fibonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3875-construct-uniform-parity-array-i) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0242-valid-anagram) |
+## Enumeration
+|  |
+| ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4010-maximize-pair-strength-using-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4010-maximize-pair-strength-using-gcd) |
 <!---LeetCode Topics End-->
