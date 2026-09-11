@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1572-matrix-diagonal-sum](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3483-unique-3-digit-even-numbers](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3903-smallest-stable-index-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3483-unique-3-digit-even-numbers) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Number Theory
 |  |
