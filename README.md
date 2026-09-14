@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0836-rectangle-overlap) |
@@ -152,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
