@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0189-rotate-array) |
@@ -155,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0223-rectangle-area](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0836-rectangle-overlap) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
