@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0169-majority-element) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Simulation
 |  |
@@ -166,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
