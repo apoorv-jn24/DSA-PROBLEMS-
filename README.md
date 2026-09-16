@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0134-gas-station) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0134-gas-station) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Geometry
