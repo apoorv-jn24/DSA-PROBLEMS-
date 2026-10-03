@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [4010-maximize-pair-strength-using-gcd](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4061-minimum-queen-moves-to-reach-target) |
+| [4062-transform-array-using-pair-operations](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4062-transform-array-using-pair-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0032-longest-valid-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [4062-transform-array-using-pair-operations](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4062-transform-array-using-pair-operations) |
 <!---LeetCode Topics End-->
