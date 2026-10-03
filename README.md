@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0242-valid-anagram) |
 ## Enumeration
@@ -185,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
