@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3904-smallest-stable-index-ii](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3904-smallest-stable-index-ii) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3876-construct-uniform-parity-array-ii](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4000-largest-integer-with-given-digit-sum) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Binary Search
 |  |
 | ------- |
