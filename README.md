@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0242-valid-anagram) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Enumeration
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0055-jump-game](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0134-gas-station) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Geometry
 |  |
@@ -194,10 +196,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Brainteaser
 |  |
 | ------- |
