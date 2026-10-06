@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0867-transpose-matrix](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1512-number-of-good-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1512-number-of-good-pairs](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1512-number-of-good-pairs) |
 | [3870-count-commas-in-range](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
