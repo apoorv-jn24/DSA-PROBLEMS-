@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0242-valid-anagram) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3340-check-balanced-string](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3340-check-balanced-string) |
 ## Enumeration
 |  |
 | ------- |
