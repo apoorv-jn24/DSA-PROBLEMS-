@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1572-matrix-diagonal-sum](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3483-unique-3-digit-even-numbers](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0134-gas-station) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Geometry
 |  |
