@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0836-rectangle-overlap](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1512-number-of-good-pairs) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3870-count-commas-in-range](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Binary Indexed Tree
 |  |
