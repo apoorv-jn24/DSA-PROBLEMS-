@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0242-valid-anagram) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1021-remove-outermost-parentheses) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3340-check-balanced-string](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3340-check-balanced-string) |
 ## Enumeration
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0134-gas-station) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Geometry
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0169-majority-element) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
