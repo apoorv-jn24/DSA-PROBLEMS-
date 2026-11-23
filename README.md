@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0242-valid-anagram) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0242-valid-anagram) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [4062-transform-array-using-pair-operations](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4062-transform-array-using-pair-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
