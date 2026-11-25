@@ -151,10 +151,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3340-check-balanced-string](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3340-check-balanced-string) |
 ## Enumeration
 |  |
 | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3483-unique-3-digit-even-numbers](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/3483-unique-3-digit-even-numbers) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Number Theory
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0134-gas-station) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Geometry
