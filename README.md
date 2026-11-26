@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
