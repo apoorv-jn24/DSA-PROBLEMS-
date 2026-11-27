@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0435-non-overlapping-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Two Pointers
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0213-house-robber-ii) |
+| [0435-non-overlapping-intervals](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0055-jump-game](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0435-non-overlapping-intervals) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/2259-remove-digit-from-number-to-maximize-result) |
