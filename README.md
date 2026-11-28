@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0867-transpose-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0300-longest-increasing-subsequence) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
