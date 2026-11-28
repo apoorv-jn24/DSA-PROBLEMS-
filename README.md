@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0134-gas-station) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0217-contains-duplicate) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/apoorv-jn24/DSA-PROBLEMS-/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
